@@ -1,39 +1,57 @@
-# Welcome to Void.
+# Welcome to VS Aware.
 
 <div align="center">
 	<img
 		src="./src/vs/workbench/browser/parts/editor/media/slice_of_void.png"
-	 	alt="Void Welcome"
+	 	alt="VS Aware Welcome"
 		width="300"
 	 	height="300"
 	/>
 </div>
 
-Void is the open-source Cursor alternative.
+VS Aware is the machine learning-focused IDE for intelligent code development.
 
-Use AI agents on your codebase, checkpoint and visualize changes, and bring any model or host locally. Void sends messages directly to providers without retaining your data.
+**🤖 AI-Powered Development**
+- Intelligent code completion with context-aware ML models
+- Automated refactoring suggestions using pattern recognition
+- ML-powered debugging and error prediction
+- Custom model training on your codebase
 
-This repo contains the full sourcecode for Void. If you're new, welcome!
+**🧠 Smart Analytics & Insights**
+- Code quality analysis with ML-driven metrics
+- Performance prediction and optimization recommendations
+- Automated documentation generation
+- Intelligent test case suggestions
 
-- 🧭 [Website](https://voideditor.com)
+**⚡ Advanced ML Integration**
+- Support for local and cloud-based ML models
+- Real-time inference for coding assistance
+- Custom model deployment and fine-tuning
+- Seamless integration with popular ML frameworks
+
+Harness the power of AI and ML models directly in your development workflow. VS Aware transforms how you write, debug, and optimize code with cutting-edge machine learning capabilities.
+
+This repo contains the full sourcecode for VS Aware. If you're new to ML-driven development, welcome!
+
+- 🧭 [Website](https://vsaware.com)
 
 - 👋 [Discord](https://discord.gg/RSNjgaugJs)
 
-- 🚙 [Project Board](https://github.com/orgs/voideditor/projects/2)
+- 🚙 [Project Board](https://github.com/orgs/vsaware/projects/2)
 
-- 🌌 [Download](https://voideditor.com/download-beta)
+- 🌌 [Download](https://vsaware.com/download-beta)
 
 
 ## Contributing
 
-1. To get started working on Void, check out our Project Board! You can also see [HOW_TO_CONTRIBUTE](https://github.com/voideditor/void/blob/main/HOW_TO_CONTRIBUTE.md).
+1. To get started working on VS Aware, check out our Project Board! You can also see [HOW_TO_CONTRIBUTE](https://github.com/vsaware/vs-aware/blob/main/HOW_TO_CONTRIBUTE.md).
 
 2. Feel free to attend a casual weekly meeting in our Discord channel!
 
 
 ## Reference
 
-Void is a fork of the [vscode](https://github.com/microsoft/vscode) repository. For a guide to the codebase, see [VOID_CODEBASE_GUIDE](https://github.com/voideditor/void/blob/main/VOID_CODEBASE_GUIDE.md).
+VS Aware is a fork of the [vscode](https://github.com/microsoft/vscode) repository. For a guide to the codebase, see [VS_AWARE_CODEBASE_GUIDE](https://github.com/vsaware/vs-aware/blob/main/VS_AWARE_CODEBASE_GUIDE.md).
 
 ## Support
-You can always reach us in our Discord server or contact us via email: hello@voideditor.com.
+You can always reach us in our Discord server or contact us via email: hello@vsaware.com.
